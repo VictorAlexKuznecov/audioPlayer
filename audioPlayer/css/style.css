@@ -5,9 +5,6 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  /*   min-height: 100%;
-  display: flex;
-  flex-direction: column; */
   background-image: url("../img/imgbackground/99px_ru_wallpaper_219435_devushka_v_belom_plate_stoit_na_derevjannom_pomoste.jpg");
   background-position: 0 0;
   background-repeat: no-repeat;
